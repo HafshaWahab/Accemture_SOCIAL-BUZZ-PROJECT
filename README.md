@@ -15,28 +15,43 @@ Analysis to Identify Top 5 Most Popular Content Categories: The project incorpor
 
 ## KEY OBJECTIVES:
 Rapid adaptation to upcoming scale in social media analytics.
+
 Strengthening the Social Buzz Big Data practice through a meticulous audit.
+
 Providing strategic recommendations for a successful IPO, considering social media impact.
+
 Data-driven analysis to identify and prioritize the top 5 most popular content categories.
+
 Enhancing overall efficiency, market positioning, and content strategy based on insights.
 
 ## METHODOLOGY:
 Data Collection
+
 Data Cleaning
+
 Data Modelling
+
 Data Analysis
+
 Interpretations & Insights
+
 
 ## KPIs:
 Top 5 Most Popular Content Categories
+
 Other unique Content Categories
+
 The most popular Content type responded by the users
+
 The peak hours and months when people are most active
+
 Sentiment analysis of content categories
 
 ## CONCEPTS USED:
 • Month and hour formulas
-• VLOOKUP, removing delimiter, Conditional formatting, Sorting.
+
+• VLOOKUP, removing delimiter, Conditional formatting, Sorting
+
 • Pivot Tables & Charts
 
 ## CONCLUSION:
