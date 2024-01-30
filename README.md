@@ -1,5 +1,6 @@
 # Accenture- SOCIAL-BUZZ-PROJECT
 This repository includes an internship project conducted under the guidance of the Data Analytics Team of Accenture.
+https://drive.google.com/drive/folders/15R8VdlBUo6o4-lhKqG0QoaJi1GPU46FW?usp=drive_link
 
 ## PROJECT SUMMARY: Accenture - Social Media Buzz
 
